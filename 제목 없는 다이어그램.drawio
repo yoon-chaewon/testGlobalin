@@ -87,6 +87,12 @@
         <mxCell id="2KHYEN3B9HOBNsR7ACnq-7" value="상영관" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-160.00000000000006" y="152" width="72" height="48" as="geometry" />
         </mxCell>
+        <mxCell id="2KHYEN3B9HOBNsR7ACnq-55" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="2KHYEN3B9HOBNsR7ACnq-8" target="2KHYEN3B9HOBNsR7ACnq-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2KHYEN3B9HOBNsR7ACnq-56" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="2KHYEN3B9HOBNsR7ACnq-8" target="2KHYEN3B9HOBNsR7ACnq-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="2KHYEN3B9HOBNsR7ACnq-8" value="푸드" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="29.399999999999977" y="152" width="72" height="48" as="geometry" />
         </mxCell>
@@ -152,6 +158,9 @@
         </mxCell>
         <mxCell id="2KHYEN3B9HOBNsR7ACnq-54" value="음료" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="129.39999999999998" y="250" width="72" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="2KHYEN3B9HOBNsR7ACnq-57" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.335;entryY=-0.021;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="2KHYEN3B9HOBNsR7ACnq-8" target="2KHYEN3B9HOBNsR7ACnq-54">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
